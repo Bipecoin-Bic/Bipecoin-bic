@@ -1,16 +1,32 @@
-## Hi there 👋
+# BIPECOIN (BIC) | BEP20 Token on BSC
 
-<!--
-**Bipecoin-Bic/Bipecoin-bic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Community Driven Token on BNB Smart Chain
 
-Here are some ideas to get you started:
+## Tokenomics
+- **Name:** Bipecoin
+- **Symbol:** BIC
+- **Chain:** BNB Smart Chain (BEP20)
+- **Fixed Supply:** 5,000,000,000 BIC
+- **Burned:** 400,000,000 BIC
+- **Locked:** 3,500,000,000 BIC till 2027
+    - 1,000,000,000 Locked in PinkLock
+    - 2,500,000,000 Locked in PinkLock Record 1894705
+- **Ownership:** Renounced (Owner balance 0%)
+- **Contract:** 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Official Links
+🌐 Linktree: https://linktr.ee/BIPECOINBIC1
+📊 GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+📊 DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+💰 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
+🔒 PinkLock 2.5B: https://www.pinksale.finance/pinklock/bsc/record/1894705
+
+## Security
+✅ Go+ Security: No Issues
+✅ Quick Intel: No Issues - Renounced Yes
+✅ LP: BIC/WBNB Pair
+✅ Public Repository
+
+## Community
+Part of BNB Chain Ecosystem - Building slowly, community driven.
+Fixed Supply - No Mint Function - Community Driven.
