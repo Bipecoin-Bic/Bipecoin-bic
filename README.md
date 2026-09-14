@@ -16,11 +16,15 @@
 
 ## Official Links
 🌐 Linktree: https://linktr.ee/BIPECOINBIC1
+
 📊 GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 📊 DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 💰 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
 🔒 PinkLock 2.5B: https://www.pinksale.finance/pinklock/bsc/record/1894705
 🔒 PinkLock 1B: https://www.pinksale.finance/pinklock/bsc/record/1892941
+Burned 400m:
+https://bscscan.com/tx/0xb1c950f3bec3813b6f74ca5fb5f9ffd7528d46dc49f722983a4828ddadadfd64
+
 ## Security
 ✅ Go+ Security: No Issues
 ✅ Quick Intel: No Issues - Renounced Yes
