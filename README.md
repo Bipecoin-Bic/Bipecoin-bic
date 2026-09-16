@@ -25,6 +25,18 @@
 Burned 400m:
 https://bscscan.com/tx/0xb1c950f3bec3813b6f74ca5fb5f9ffd7528d46dc49f722983a4828ddadadfd64
 
+##Community links:
+BIPECOIN (BIC) 
+
+Official Email: ebubechi12@bipecoin.com
+
+X: https://x.com/BIPECOINBIC1
+
+Telegram: https://t.me/bipecoinbic
+
+Discord: https://discord.gg/7Yzgd4qbQH
+GitHub: https://github.com/Bipecoin-Bic
+Contract: 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 ## Security
 ✅ Go+ Security: No Issues
 ✅ Quick Intel: No Issues - Renounced Yes
