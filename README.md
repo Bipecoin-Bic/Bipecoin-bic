@@ -10,7 +10,7 @@
 - **Burned:** 400,000,000 BIC
 - **Locked:** 3,500,000,000 BIC till 2027
     - 1,000,000,000 Locked in PinkLock
-    - 2,500,000,000 Locked in PinkLock Record 1894705
+    - 2,500,000,000 Locked in PinkLock
 - **Ownership:** Renounced (Owner balance 0%)
 - **Contract:** 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
