@@ -53,3 +53,5 @@ Future of Bipecoin according to code: Native gas & reserve asset. Powering all a
 Bipecoin is community-driven. No financial advice. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
  
 © 2026 Bipecoin-Bic | Community Driven | BNB Chain
+Founder: Ebubechi Peter
+Contact: ebubechi12@bipecoin.com
