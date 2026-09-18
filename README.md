@@ -82,7 +82,7 @@ Bipecoin is community-driven token, and is a standard BEP-20 Defi utility token.
 
 SEARCH MORE: https://linktr.ee/BIPECOINBIC1
 
-https://github.com/Bipecoin-Bic/Bipecoin-bic/blob/main/Bipecoin_x5f_Whitepaper_x5f_V3%20%284%29.pdf
+https://github.com/Bipecoin-Bic/Bipecoin-bic/blob/main/WHITEPAPER-V5.md
 
 CONTACT FOUNDER: ebubechi12@bipecoin.com
  
