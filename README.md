@@ -1,6 +1,6 @@
 # BIPECOIN (BIC) | BEP20 Token on BSC
 
-🚀 Community Driven Token on BNB Smart Chain
+🚀 Community Coderivenoken on BNB Smart Chain
 
 ## Tokenomics
 - **Name:** Bipecoin
@@ -76,7 +76,7 @@ Roadmap & Future Outlook
 
  Disclaimer
  
-Bipecoin is community-driven. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
+Bipecoin is community-driven.  Bipecoin is a standard BEP-20 utility token.fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
 
 SEARCH MORE: https://linktr.ee/BIPECOINBIC1
 
