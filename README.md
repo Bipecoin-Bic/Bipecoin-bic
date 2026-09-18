@@ -61,6 +61,9 @@ FUTURE WORKS OF BIPECOIN according to code:
 
 ​Ecosystem Utility: Positioned as a native reserve asset designed to power future applications, decentralized services, and liquidity pools.
 
+verify code here;
+https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328a5bc45#code#F1#L1
+
 Roadmap & Future Outlook
 
 ​Phase 1: Foundation & Deployment
