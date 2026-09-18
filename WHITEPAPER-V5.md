@@ -60,12 +60,15 @@ Future works of Bipecoin according to code:
 ​Ecosystem Utility: Positioned as a native reserve asset designed to power future applications, decentralized services, and liquidity pools.
 
 (7)Roadmap & Future Outlook
+
 ​Phase 1: Foundation & Deployment
 ​Smart contract authoring, testing, and deployment on the BNB Smart Chain.
 ​Source code verification on BscScan and initial liquidity setup.
+
 ​Phase 2: Community & Ecosystem Expansion
 ​Building community presence across X and tracking platforms (CoinMarketCap, CoinGecko, Dexscreener).
 ​Expanding holder distribution and decentralized liquidity pools.
+
 ​Phase 3: Utility & Integration
 ​Exploring integrations aligned with the project's AI-ready and decentralized service Roadmap
 
