@@ -44,7 +44,7 @@ Locked: 3.5B in PinkLock from September 2026 to September 2027
 GitHub: github.com/Bipecoin-Bio/Bipecoin.bic
 Ownership: Renounced
 
-Future works of Bipecoin according to code: 
+(6)Future works of Bipecoin according to code: 
  Core Vision & Philosophy
  
 ​Bipecoin was built to serve as more than just a speculative asset. Its core smart contract hardcodes five foundational pillars that guide its ecosystem:
