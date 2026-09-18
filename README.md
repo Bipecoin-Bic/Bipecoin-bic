@@ -34,7 +34,6 @@ X: https://x.com/BIPECOINBIC1
 
 Telegram: https://t.me/bipecoinbic
 
-Discord: https://discord.gg/7Yzgd4qbQH
 GitHub: https://github.com/Bipecoin-Bic
 Contract: 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 ## Security
