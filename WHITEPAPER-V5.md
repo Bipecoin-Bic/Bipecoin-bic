@@ -44,7 +44,7 @@ Locked: 3.5B in PinkLock from September 2026 to September 2027
 GitHub: github.com/Bipecoin-Bio/Bipecoin.bic
 Ownership: Renounced
 
-Future of Bipecoin according to code: 
+Future works of Bipecoin according to code: 
  Core Vision & Philosophy
  
 ​Bipecoin was built to serve as more than just a speculative asset. Its core smart contract hardcodes five foundational pillars that guide its ecosystem:
@@ -59,9 +59,17 @@ Future of Bipecoin according to code:
 
 ​Ecosystem Utility: Positioned as a native reserve asset designed to power future applications, decentralized services, and liquidity pools.
 
+(7)Roadmap & Future Outlook
+​Phase 1: Foundation & Deployment
+​Smart contract authoring, testing, and deployment on the BNB Smart Chain.
+​Source code verification on BscScan and initial liquidity setup.
+​Phase 2: Community & Ecosystem Expansion
+​Building community presence across X and tracking platforms (CoinMarketCap, CoinGecko, Dexscreener).
+​Expanding holder distribution and decentralized liquidity pools.
+​Phase 3: Utility & Integration
+​Exploring integrations aligned with the project's AI-ready and decentralized service Roadmap
 
-
-7. Disclaimer
+8. Disclaimer
  
 Bipecoin is community-driven. No financial advice. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
  
