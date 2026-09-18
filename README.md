@@ -77,4 +77,8 @@ Roadmap & Future Outlook
  Disclaimer
  
 Bipecoin is community-driven. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
+
+SEARCH MORE: https://linktr.ee/BIPECOINBIC1
+
+CONTACT: ebubechi12@bipecoin.com
  
