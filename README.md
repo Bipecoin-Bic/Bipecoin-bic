@@ -80,5 +80,5 @@ Bipecoin is community-driven. Code is fixed 5B supply. Burn of 400M every 5 year
 
 SEARCH MORE: https://linktr.ee/BIPECOINBIC1
 
-CONTACT: ebubechi12@bipecoin.com
+CONTACT FOUNDER: ebubechi12@bipecoin.com
  
