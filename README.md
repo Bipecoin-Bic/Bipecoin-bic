@@ -40,10 +40,11 @@ Official Links
 
 
 Community
-X (Twitter): https://x.com/BIPECOINBIC1
-Telegram: https://t.me/bipecoinbic
-Email: ebubechi12@bipecoin.com
-GitHub: https://github.com/Bipecoin-Bic
+X (Twitter): https://x.com/BIPECOINBIC1 ,
+Telegram: https://t.me/bipecoinbic ,
+Email: ebubechi12@bipecoin.com ,
+GitHub: https://github.com/Bipecoin-Bic.
+
 
 Security
 ✅ Go+ Security: No Issues
@@ -51,7 +52,10 @@ Security
 ✅ LP: BIC/WBNB Pair Locked
 ✅ Public Repository
 ✅ No Mint / No Honeypot
+
+
 Whitepaper
 See WHITEPAPER-V6.md in this repo.
+
 
 © 2026 Bipecoin - Built with purpose & vision - Community Driven
