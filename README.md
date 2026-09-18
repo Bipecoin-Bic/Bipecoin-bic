@@ -54,7 +54,7 @@ Security
 ✅ No Mint / No Honeypot
 
 
-Whitepaper
+Whitepaper:
 https://github.com/Bipecoin-Bic/Bipecoin-bic/blob/main/WHITEPAPER-V6.md
 
 
