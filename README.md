@@ -1,6 +1,6 @@
 # BIPECOIN (BIC) | BEP20 Token on BSC
 
-🚀 Community Coderivenoken on BNB Smart Chain
+🚀 Community Driving token on BNB Smart Chain/Defi utility token.
 
 ## Tokenomics
 - **Name:** Bipecoin
