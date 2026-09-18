@@ -55,7 +55,7 @@ Security
 
 
 Whitepaper
-See WHITEPAPER-V6.md in this repo.
+https://github.com/Bipecoin-Bic/Bipecoin-bic/blob/main/WHITEPAPER-V6.md
 
 
 © 2026 Bipecoin - Built with purpose & vision - Community Driven
