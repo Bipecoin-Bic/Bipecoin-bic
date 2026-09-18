@@ -43,10 +43,10 @@ Contract: 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 ✅ Public Repository
 
 ## Community
-Part of BNB Chain Ecosystem - Building slowly, community driven.
+Part of BNB Chain Ecosystem currently - Building slowly, community driven.
 Fixed Supply - No Mint Function - Community Driven.
 
-Future works of Bipecoin according to code: 
+FUTURE WORKS OF BIPECOIN according to code: 
  Core Vision & Philosophy
  
 ​Bipecoin was built to serve as more than just a speculative asset. Its core smart contract hardcodes five foundational pillars that guide its ecosystem:
@@ -76,5 +76,5 @@ Roadmap & Future Outlook
 
  Disclaimer
  
-Bipecoin is community-driven. No financial advice. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
+Bipecoin is community-driven. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
  
