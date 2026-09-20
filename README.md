@@ -32,8 +32,11 @@ Phase 3 (VISION): Evolving into BIC Chain - AI-Ready Foundation
 
 
 Official Links
-WEB:https://bipecoin.com
+
+WEB:https://bipecoin.com,
+
 🌐 Linktree: https://linktr.ee/BIPECOINBIC1
+
 📊 GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 📊 DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 💰 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
