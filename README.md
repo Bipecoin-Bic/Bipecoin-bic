@@ -37,17 +37,24 @@ WEB:https://bipecoin.com,
 
 🌐 Linktree: https://linktr.ee/BIPECOINBIC1
 
+
 📊 GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+
 📊 DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+
 💰 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
+
 📄 BscScan: https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
 
 Community
-web:https://bipecoin.com,
+
 X (Twitter): https://x.com/BIPECOINBIC1 ,
+
 Telegram: https://t.me/bipecoinbic ,
+
 Email: ebubechi12@bipecoin.com ,
+
 GitHub: https://github.com/Bipecoin-Bic.
 
 
