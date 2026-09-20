@@ -1,4 +1,4 @@
-BIPECOIN (BIC) | BEP20 Token on BSC
+SecurityrnitynityOIN (BIC) | BEP20 Token on BSC
 🚀 Community Driven | Fixed Supply | Renounced | BNB Chain Ecosystem
 
 
@@ -40,6 +40,7 @@ Official Links
 
 
 Community
+web:Bipecoin.com
 X (Twitter): https://x.com/BIPECOINBIC1 ,
 Telegram: https://t.me/bipecoinbic ,
 Email: ebubechi12@bipecoin.com ,
