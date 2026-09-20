@@ -69,12 +69,20 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 - **Q3 2027+:** BIC Chain Litepaper, Validator concept
 
 ### 7. LINKS (Official - Use Only These)
+-Web:
+https://bipecoin.com
 
-- Linktree: https://linktr.ee/BIPECOINBIC1
+- Linktree:
+https://linktr.ee/BIPECOINBIC1
+
 - BscScan Token: https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+
 - PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
+
 - GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+
 - DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+
 
 ### 8. CONTACT & COMMUNITY
 
