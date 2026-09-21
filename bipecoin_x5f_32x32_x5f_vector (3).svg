@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="16" cy="16" r="15" fill="url(#gold)" stroke="#FFD700" stroke-width="0.8"/>
+  <circle cx="16" cy="16" r="12.5" fill="none" stroke="#000" stroke-opacity="0.2" stroke-width="0.3"/>
+  <text x="16" y="12" font-family="Arial Black, sans-serif" font-size="3.2" font-weight="900" fill="#FFF8DC" text-anchor="middle" letter-spacing="0.5">BIPECOIN</text>
+  <text x="16" y="20.5" font-family="Arial Black, sans-serif" font-size="8" font-weight="900" fill="#FFF8DC" text-anchor="middle">BIC</text>
+</svg>
