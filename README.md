@@ -2,7 +2,7 @@ BIPECOIN (BIC) | BEP20 Token on BSC
 🚀 Community Driven | Fixed Supply | Renounced | BNB Chain Ecosystem
 
 
-Bipecoin (BIC) is a community-driven DeFi utility token on BNB Smart Chain. Fixed 5 Billion supply with no mint function, 400M burned, and 3.5B locked till 2027.
+Bipecoin (BIC) is a community-driven| infrastructure token on BNB Smart Chain. Fixed 5 Billion supply with no mint function, 400M burned, and 3.5B locked till 2027.
 
 Contract
 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
@@ -70,4 +70,4 @@ Whitepaper:
 https://github.com/Bipecoin-Bic/Bipecoin-bic/blob/main/WHITEPAPER-V6.md
 
 
-© 2026 Bipecoin - Built with purpose & vision - Community Driven
+© 2026 Bipecoin - Built with purpose & vision - Community Driven|Infrastructure.
