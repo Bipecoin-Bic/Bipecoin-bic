@@ -72,8 +72,6 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 -Web:
 https://bipecoin.com
 
-- Linktree:
-https://linktr.ee/BIPECOINBIC1
 
 - BscScan Token: https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
@@ -93,6 +91,6 @@ https://linktr.ee/BIPECOINBIC1
 
 ### 9. DISCLAIMER
 
-Bipecoin (BIC) is a community-driven utility token. It is not a security, not investment advice, and not a promise of profit. Crypto assets are volatile. BNB Chain fees apply. Always DYOR. The long-term Layer 1 vision is a development goal, not current state. Current state is BEP20 on BSC.
+Bipecoin (BIC) is a community-driven utility token and infrastructure.building slowly. Vision Bic chain later 1. Crypto assets are volatile. BNB Chain fees apply. Always DYOR. The long-term Layer 1 vision is a development goal, not current state. Current state is BEP20 on BSC.
 
 © 2026 BIPECOIN (BIC) - Built with purpose & vision.
