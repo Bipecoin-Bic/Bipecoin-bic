@@ -37,7 +37,7 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 2.  **AI-READY:** Contract built with `getInfo()` and `getDuties()` for oracle and AI-agent readability. Future: verifiable computation.
 3.  **FUNGIBLE:** Equal, divisible, transferable. 18 decimals. Universal BEP-20 standard.
 4.  **TRUST:** Open-source MIT, audited by Go+ and Quick Intel, renounced, no mint, public repo, PinkLock verified.
-5.  **ECOSYSTEM:** Native utility for community tools, staking, and future BIC Chain apps.
+5.  **ECOSYSTEM:** Native utility for community tools, staking, and future BIC Chain apps and infrastructure.
 
 ### 4. SECURITY & TRANSPARENCY
 
