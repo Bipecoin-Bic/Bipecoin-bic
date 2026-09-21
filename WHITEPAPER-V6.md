@@ -91,6 +91,6 @@ https://bipecoin.com
 
 ### 9. DISCLAIMER
 
-Bipecoin (BIC) is a community-driven utility token and infrastructure.building slowly. Vision Bic chain later 1. Crypto assets are volatile. BNB Chain fees apply. Always DYOR. The long-term Layer 1 vision is a development goal, not current state. Current state is BEP20 on BSC.
+Bipecoin (BIC) is a community-driven utility token and infrastructure.building slowly. Vision Bic chain in future but as infrastructure|Ai ready | on BNB CHAIN. Crypto assets are volatile. BNB Chain fees apply. Always DYOR. The long-term Layer 1 vision is a development goal, not current state. Current state is BEP20 on BSC.
 
 © 2026 BIPECOIN (BIC) - Built with purpose & vision.
