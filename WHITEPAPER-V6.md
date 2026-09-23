@@ -34,7 +34,7 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 ### 3. THE 5 CORE DUTIES (From Code to Community)
 
 1.  **FOUNDATION:** Live BEP-20 settlement asset on BNB Chain, with vision to become native gas for future BIC L1.
-2.  **AI-READY:** Contract built as an ooracl,featured: verifiable computation, intelligence + integrity,and Automation.
+2.  **AI-READY:** Contract built as an Oracle,featured: verifiable computation, intelligence + integrity,and Automation.
 3.  **FUNGIBLE:** Equal, divisible, transferable. 18 decimals. Universal BEP-20 standard.
 4.  **TRUST:** Open-source MIT, audited by Go+ and Quick Intel, renounced, no mint, public repo, PinkLock verified.
 5.  **ECOSYSTEM:** Native utility for community tools, staking, and future BIC Chain apps, and services.
