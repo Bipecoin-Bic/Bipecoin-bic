@@ -38,6 +38,9 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 3.  **FUNGIBLE:** Equal, divisible, transferable. 18 decimals. Universal BEP-20 standard.
 4.  **TRUST:** Open-source MIT, audited by Go+ and Quick Intel, renounced, no mint, public repo, PinkLock verified.
 5.  **ECOSYSTEM:** Native utility for community tools, staking, and future BIC Chain apps, and services.
+   for more inquiries about the duties 👉check the code which is into Blockchain 👇
+
+https://github.com/Bipecoin-Bic/Bipecoin-bic/blob/main/bipecoin.sol
 
 ### 4. SECURITY & TRANSPARENCY
 
