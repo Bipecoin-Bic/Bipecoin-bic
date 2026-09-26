@@ -34,7 +34,8 @@ Phase 3 (VISION): Evolving into BIC Chain    foundation,L1.
 Official Links
 
 WEB:https://bipecoin.com,
-
+ 
+Linktree:https://linktr.ee/Bipecoinbic1
 
 📊 GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
