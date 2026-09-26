@@ -35,8 +35,6 @@ Official Links
 
 WEB:https://bipecoin.com,
 
-Linktree:https://linktr.ee/BipeCoinOfficial
-
 
 📊 GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
