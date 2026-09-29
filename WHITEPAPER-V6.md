@@ -25,7 +25,8 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 | Burned | 400,000,000 BIC - Tx: 0xb1c950f3bec3813b6f74ca5fb5f9ffd7528d46dc49f722983a4828ddadadfd64 |
 | Locked | 3,500,000,000 BIC till Sept 2027 |
 | Lock 1 | 1B - https://www.pinksale.finance/pinklock/bsc/record/1892941 |
-| Lock 2 | 2.5B - https://www.pinksale.finance/pinklock/bsc/record/1894705 |
+| Lock 2 | 2.5B - https://www.pinksale.finance/pinklock/bsc/record/1894705 | 
+|Lock liquidity|3yrs- https://www.pinksale.finance/pinklock/bsc/record/2055924|
 | Ownership | Renounced |
 | Mint | No |
 
