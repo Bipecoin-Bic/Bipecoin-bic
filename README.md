@@ -20,6 +20,10 @@ Tx: https://bscscan.com/tx/0xb1c950f3bec3813b6f74ca5fb5f9ffd7528d46dc49f722983a4
 Locked: 3,500,000,000 BIC till September 2027
 1,000,000,000 Locked: https://www.pinksale.finance/pinklock/bsc/record/1892941
 2,500,000,000 Locked: https://www.pinksale.finance/pinklock/bsc/record/1894705
+
+liquidity currently LOCKED 🔒 till 3yrs(2030);
+https://www.pinksale.finance/pinklock/bsc/record/2055924
+
 Circulating: ~1.1B (5B - 0.4B Burn - 3.5B Locked)
 Ownership: Renounced - Owner balance 0%
 Mint Function: None
